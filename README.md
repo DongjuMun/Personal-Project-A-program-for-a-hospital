@@ -7,26 +7,26 @@ The program displays a menu that has 3 options: 1. Save the patient information 
 To log in, you must enter certain userIds and passwords. For option 1, you have to use the doctor ones, and for option 2, you have to use the administrative ones. The program does not offer this information, since in real life it is the login information of doctors and administrators, I cannot show it directly in the program. The following data is the userIds and passwords of the doctors and administrators. :
 
 - Doctor
-userId: dmltk01 | password: qlqjsdlf | servicio: 1
+1. userId: dmltk01 | password: qlqjsdlf | servicio: 1
 
-userId: dmltk02 | password: qlqjsdl | servicio: 2
+2. userId: dmltk02 | password: qlqjsdl | servicio: 2
 
-userId: dmltk03 | password: qlqjstka | servicio: 3
+3. userId: dmltk03 | password: qlqjstka | servicio: 3
 
-userId: dmltk04 | password: qlqjstk | servicio: 4
+4. userId: dmltk04 | password: qlqjstk | servicio: 4
 
-userId: dmltk05 | password: qlqjsdh | servicio: 5
+5. userId: dmltk05 | password: qlqjsdh | servicio: 5
 
-userId: dmltk06 | password: qlqjsdbr | servicio: 6
+6. userId: dmltk06 | password: qlqjsdbr | servicio: 6
 
 - Administrativo
-userId: rufwp01 | password: alfghclf
+1. userId: rufwp01 | password: alfghclf
 
-userId: rufwp02 | password: alfghvkf
+2. userId: rufwp02 | password: alfghvkf
 
-userId: rufwp03 | password: alfghrn
+3. userId: rufwp03 | password: alfghrn
 
-userId: rufwp04 | password: alfghtlq
+4. userId: rufwp04 | password: alfghtlq
 
 For option 3, you must enter the text file called "infoDePago.txt" to obtain the patient ID, and then you must enter that ID into the program. In real life, these data are kept by administrators in a file that has all the information on patient payments.
 
